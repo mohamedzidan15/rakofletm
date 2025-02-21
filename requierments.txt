@@ -1,4 +1,5 @@
 yt_dlp
-tkinter
-os
+kinter
+kinter
+ os
 subprocess
